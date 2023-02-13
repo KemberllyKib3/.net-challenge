@@ -23,7 +23,7 @@ Desafio consiste em implementar algumas funcionalidades a mais em uma solução 
 - [x]  Adicionar um modal de cadastro de Beneficiários com NOME e CPF
 - [x]  Adicionar uma tabela ao modal de cadastro de Beneficiários com NOME e CPF e botões
 - [x]  Não permitir cadastro com CPF duplicado ou inválido
-- []  Salvar Beneficiarios na base de dados
+- [ ]  Salvar Beneficiarios na base de dados
 - [x]  Adicionar uma coluna de IDCLIENTE na tabela de Beneficiários
 
 
